@@ -6,7 +6,7 @@
 
 ## 🌐 Preview
 
-<img width="100%" alt="Portfolio Preview" src="./public/profile.jpg" />
+<img width="10%" alt="Portfolio Preview" src="./public/profile.jpg" />
 
 ---
 
